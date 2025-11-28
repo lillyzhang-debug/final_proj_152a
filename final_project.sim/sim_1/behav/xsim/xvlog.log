@@ -1,0 +1,21 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lilly/.Xilinx/projects/final_proj_152a/final_project.srcs/sources_1/imports/Downloads/ClockDivider.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clock
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lilly/.Xilinx/projects/final_proj_152a/final_project.srcs/sources_1/imports/lab3/display.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module display
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lilly/.Xilinx/projects/final_proj_152a/final_project.srcs/sources_1/imports/lab3/stopwatch.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module stopwatch
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lilly/.Xilinx/projects/final_proj_152a/final_project.srcs/sources_1/new/rand_num_gen.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module random_number_generator
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lilly/.Xilinx/projects/final_proj_152a/final_project.srcs/sources_1/new/menu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module game_controller
+INFO: [VRFC 10-311] analyzing module game_fsm
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'timer' is not allowed [C:/Users/lilly/.Xilinx/projects/final_proj_152a/final_project.srcs/sources_1/new/menu.v:57]
+INFO: [VRFC 10-311] analyzing module led_controller
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lilly/.Xilinx/projects/final_proj_152a/final_project.srcs/sources_1/new/score_tabulator.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module score_top_module
+INFO: [VRFC 10-311] analyzing module score_tabulator
+INFO: [VRFC 10-311] analyzing module score_parser
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lilly/.Xilinx/projects/final_proj_152a/final_project.srcs/sim_1/new/score_tab_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module score_tab_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lilly/.Xilinx/projects/final_proj_152a/final_project.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

@@ -1,0 +1,12 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+C:/Users/lilly/.Xilinx/projects/final_proj_152a/final_project.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+C:/Users/lilly/.Xilinx/projects/final_proj_152a/final_project.srcs/sim_1/new/score_tab_tb.v,1764297281,verilog,,,,score_tab_tb,,,../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/lilly/.Xilinx/projects/final_proj_152a/final_project.srcs/sources_1/imports/Downloads/ClockDivider.v,1764263551,verilog,,C:/Users/lilly/.Xilinx/projects/final_proj_152a/final_project.srcs/sources_1/imports/lab3/display.v,,clock,,,../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/lilly/.Xilinx/projects/final_proj_152a/final_project.srcs/sources_1/imports/lab3/display.v,1764263551,verilog,,C:/Users/lilly/.Xilinx/projects/final_proj_152a/final_project.srcs/sources_1/imports/lab3/stopwatch.v,,display,,,../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/lilly/.Xilinx/projects/final_proj_152a/final_project.srcs/sources_1/imports/lab3/stopwatch.v,1764263551,verilog,,C:/Users/lilly/.Xilinx/projects/final_proj_152a/final_project.srcs/sources_1/new/rand_num_gen.v,,stopwatch,,,../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/lilly/.Xilinx/projects/final_proj_152a/final_project.srcs/sources_1/new/menu.v,1764293144,verilog,,C:/Users/lilly/.Xilinx/projects/final_proj_152a/final_project.srcs/sources_1/new/score_tabulator.v,,game_controller;game_fsm;led_controller,,,../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/lilly/.Xilinx/projects/final_proj_152a/final_project.srcs/sources_1/new/rand_num_gen.v,1764263551,verilog,,C:/Users/lilly/.Xilinx/projects/final_proj_152a/final_project.srcs/sources_1/new/menu.v,,random_number_generator,,,../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/lilly/.Xilinx/projects/final_proj_152a/final_project.srcs/sources_1/new/score_tabulator.v,1764293050,verilog,,C:/Users/lilly/.Xilinx/projects/final_proj_152a/final_project.srcs/sim_1/new/score_tab_tb.v,,score_parser;score_tabulator;score_top_module,,,../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
